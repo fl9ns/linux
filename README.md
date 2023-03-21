@@ -1,3 +1,3 @@
-### ![](https://archlinux.org/static/favicon.29302f683ff8.ico) LINUX ![](https://archlinux.org/static/favicon.29302f683ff8.ico)
+# ![](/images/terminal.ico) LINUX
 
 - [Firefox](/firefox.md)
