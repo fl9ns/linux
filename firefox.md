@@ -1,4 +1,4 @@
-# Extensions
+# ![](https://addons.mozilla.org/favicon.ico) Extensions Firefox ![](https://addons.mozilla.org/favicon.ico)
 
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 - [I don't care about cookies](https://addons.mozilla.org/fr/firefox/addon/i-dont-care-about-cookies/)
