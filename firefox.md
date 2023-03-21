@@ -1,4 +1,4 @@
-# ![](https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.f093404c0135.ico) Firefox
+# ![](/images/firefox.ico) Firefox
 
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 - [I don't care about cookies](https://addons.mozilla.org/fr/firefox/addon/i-dont-care-about-cookies/)
