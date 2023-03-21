@@ -1,3 +1,1 @@
-# index
-
 - [Firefox](/firefox.md)
