@@ -1,9 +1,3 @@
 # index
 
-## Archlinux
-
-## Gnome
-
-## Firefox
-
-## MPV
+- [Firefox](/firefox.md)
