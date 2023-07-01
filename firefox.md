@@ -10,9 +10,8 @@
 
 ```
 ublockorigin
-! 2023-07-01 https://www.twitch.tv
 www.twitch.tv##div.iHhMjG:style(left:-1000px !important;)
 www.twitch.tv##div.iYYknl:style(max-height: 800px !important;)
 www.twitch.tv##div.reward-center__content:style(height:800px !important; width:1000px !important;)
-www.twitch.tv##div.reward-center-body:style(min-height:800px !important; max-width:1000px !important;)
+www.twitch.tv##div.reward-center-body:style(max-width:1000px !important;)
 ```
